@@ -1,4 +1,5 @@
 ### 刚果商城
+![](/.img/congo%20architecture.png)
 ---
 
 DDD相关文章
